@@ -1,3 +1,4 @@
 <?
 echo "pull";
+echo "adios";
 ?>
